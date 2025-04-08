@@ -14,7 +14,7 @@ This project analyzes the impact of advertisement budgets across different media
 
 ## 📦 Dataset
 
-- **Source**: [Kaggle - Advertising Dataset](https://www.kaggle.com/)
+- **Source**: [Kaggle - Advertising Dataset]
 - **Features**: 
   - TV Advertising Budget
   - Radio Advertising Budget
@@ -72,6 +72,5 @@ This project analyzes the impact of advertisement budgets across different media
 
 ---
 
-## 📁 Folder Structure
 
 
